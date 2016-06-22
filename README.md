@@ -26,4 +26,4 @@ Thank to all contributors !
 
 ##### Projects use this repository:
 
-Arlextra and her API -> https://github.com/arlextra/junkMail-api
+ArLextra and her API -> https://github.com/arlextra/junkMail-api
