@@ -1,6 +1,6 @@
 ## Easy check if mail is not fake !
 
-Get list on http://junkmail.valentin-deville.eu/domains/list (JSON Format)
+Get list on https://junkmail.valentin-deville.eu/domains/list (JSON Format)
 
 To add Domain, make pull request !
 
