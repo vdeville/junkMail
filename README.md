@@ -25,5 +25,5 @@ Make pull request here
 Thank to all contributors !
 
 ##### Projects use this repository:
-
+MyTheValentinus API -> https://github.com/MyTheValentinus/junkMailAPI
 Arnicel and her API -> https://github.com/arnicel/junkMail-api
